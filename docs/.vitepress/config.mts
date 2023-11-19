@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   lang: 'zh-CN',
   title: '海的博客',
+  outDir: '../dist',
   lastUpdated: true,
   markdown: {
     lineNumbers: true,
