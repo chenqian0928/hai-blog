@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "海的博客"
   text: "Hai的成长之路"
-  tagline: "港口的船是安全的，但这不是船的建造目的"
+  tagline: "船停在码头是最安全的，但那不是造船的目的"
   image:
     src: /logo.jpg
     alt: 海的博客
