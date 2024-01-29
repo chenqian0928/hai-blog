@@ -13,7 +13,7 @@ hero:
       text: 导航
       link: /nav/index
     - theme: alt
-      text: 笔记
+      text: 知识碎片
       link: /notes/index
     - theme: alt
       text: 常用工具
@@ -25,7 +25,7 @@ features:
     link: /nav/index
     details: 快捷导航
   - icon: 📘
-    title: 笔记
+    title: 知识碎片
     link: /notes/index
     details: 有用的小知识
   - icon: 🧰

@@ -7,6 +7,9 @@ export default defineConfig({
   lastUpdated: true,
   markdown: {
     lineNumbers: true,
+    container: {
+        detailsLabel: '回答'
+      }
   },
   head: [
     [
@@ -36,7 +39,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '导航', link: '/nav/index' },
-      { text: '笔记', link: '/notes/index' },
+      { text: '知识碎片', link: '/notes/index' },
       {
         text: '推荐工具',
         link: '/tools/index',
@@ -52,7 +55,7 @@ export default defineConfig({
       ],
       '/notes/': [
         {
-          text: '笔记',
+          text: '知识碎片',
           items: [],
         },
       ],
